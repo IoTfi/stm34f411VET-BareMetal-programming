@@ -573,10 +573,10 @@ LOAD c:/st/stm32cubeide_1.12.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.ext
  .debug_line    0x0000000000000000      0x39a ./Src/main.o
  .debug_line    0x000000000000039a       0x84 ./Startup/startup_stm32f411vetx.o
 
-.debug_str      0x0000000000000000     0x3cd8
- .debug_str     0x0000000000000000     0x3c54 ./Src/main.o
-                                       0x3db8 (size before relaxing)
- .debug_str     0x0000000000003c54       0x84 ./Startup/startup_stm32f411vetx.o
+.debug_str      0x0000000000000000     0x3cfb
+ .debug_str     0x0000000000000000     0x3c77 ./Src/main.o
+                                       0x3ddb (size before relaxing)
+ .debug_str     0x0000000000003c77       0x84 ./Startup/startup_stm32f411vetx.o
 
 .comment        0x0000000000000000       0x50
  .comment       0x0000000000000000       0x50 ./Src/main.o
